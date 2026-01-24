@@ -2,7 +2,7 @@
 
 🎓 **Computer Science Graduate**  
 💻 Skilled in **SQL & Python**  
-📊 Completed a **Modern Data Warehouse Project**  
+📊 Completed a **Modern Data Warehouse Project and SQL Exploratory Analysis**  
 🚀 Passionate about building data-driven solutions and continuously learning new technologies.  
 
 ---
