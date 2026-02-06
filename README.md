@@ -43,21 +43,8 @@ RESTful API built with modern Python backend framework
 
 ---
 
-## 📈 GitHub Analytics
 
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sambathraj-Tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/Sambathraj-Tech)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Sambathraj-Tech&theme=tokyonight&hide_border=true)](https://github.com/Sambathraj-Tech)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sambathraj-Tech&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/Sambathraj-Tech)
-
-</div>
-
----
-
-## 📊 Contribution Activity
+## 📊 GitHub Contribution Activity
 
 [![Sambath Raj's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sambathraj-Tech&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Sambathraj-Tech)
 
